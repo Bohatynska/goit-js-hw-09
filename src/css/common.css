@@ -16,3 +16,10 @@ img {
   display: block;
   max-width: 100%;
 }
+button {
+  padding: 10px 20px;
+  margin: 0 auto;
+  background-color: rgba(136, 172, 142, 0.624);
+  font-size: 20px;
+  cursor: pointer;
+}
