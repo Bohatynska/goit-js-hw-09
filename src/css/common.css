@@ -23,3 +23,23 @@ button {
   font-size: 20px;
   cursor: pointer;
 }
+.field {
+  padding: 10px;
+  border-radius: 3px;
+  display: inline-block;
+  text-align: center;
+}
+.value {
+  font-size: 30px;
+  font-weight: bold;
+  padding: 15px;
+  border-radius: 3px;
+  display: inline-block;
+}
+.label {
+  display: block;
+  padding-top: 5px;
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
