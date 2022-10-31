@@ -29,7 +29,7 @@ const options = {
     if (selectedDates[0] < SELECTED_TIME) {
       Notify.failure('Please choose a date in the future');
       // window.alert('Please choose a date in the future');
-      refs.btnStart.disabled = true;
+      // refs.btnStart.disabled = true;
       // console.log(selectedDates[0]);
     } else {
       refs.btnRef.disabled = false;
